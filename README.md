@@ -16,3 +16,5 @@
     5. solve graphicviz gv issue
         1. https://forums.fast.ai/t/missing-graphviz-please-run-conda-install-fastbook/77260
             1. sudo apt install graphviz
+    6. Install nbdev for Jupyter notebook better documentation 
+        1. pip install nbdev
